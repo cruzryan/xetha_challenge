@@ -17,7 +17,7 @@ Este repositorio contiene nuestra solución para el Challenge Alfonso Marina.
 
 `/ai` esta contiene todo el código de los diferentes modelos de machine learning que ocupamos para predecir.
 
-  
+`/ui` este folder contiene todos los diseños de la interfaz grafica, hechos en paint.net
   
 
 ### Setup
@@ -26,7 +26,7 @@ Este repositorio contiene nuestra solución para el Challenge Alfonso Marina.
 
 1. Instalar las dependencias necesarias que ocupa el proyecto de /web
 
-esto se hace corriendo el instalando Node.Js y corriendo `npm install`
+esto se hace corriendo el instalando NodeJS y corriendo `npm install`
 
 2. Instalar las dependencias necesarias que ocupa el proyecto dentro de /ia .
 
